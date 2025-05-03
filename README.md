@@ -46,7 +46,7 @@ __Fifth__, modify __mconBot/src/.env__ in the cloned repository:
 2. Fill in your Minecraft server's IP and RCON password. If you're not using the default RCON port (25575), you can also change that.
 3. Change the discord user ID(s) to be able to use the bot.
 
-__Sixth__, head into __/mconBot/src/__ in the cloned repository and start up the bot:
+__Sixth__, head into __src/__ in the cloned repository and start up the bot:
 ```
 python3 bot.py
 ```
