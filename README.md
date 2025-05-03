@@ -55,9 +55,9 @@ python3 bot.py
 
 # Some example images:
 
-![img](https://zip.xd.hu/file/1Nc48G.png)
-![img](https://zip.xd.hu/file/uDvVge.png)
-![img](https://zip.xd.hu/file/Rn5Rmv.png)
-![img](https://zip.xd.hu/file/MrnDOU.png)
-![img](https://zip.xd.hu/file/wHHk9Q.png)
+![img](https://zip.xd.hu/raw/1Nc48G.png)
+![img](https://zip.xd.hu/raw/uDvVge.png)
+![img](https://zip.xd.hu/raw/Rn5Rmv.png)
+![img](https://zip.xd.hu/raw/MrnDOU.png)
+![img](https://zip.xd.hu/raw/wHHk9Q.png)
 
