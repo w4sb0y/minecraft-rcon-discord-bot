@@ -50,3 +50,14 @@ __Sixth__, head into __src/__ in the cloned repository and start up the bot:
 ```
 python3 bot.py
 ```
+
+
+
+# Some example images:
+
+[!img](https://zip.xd.hu/file/1Nc48G.png)
+[!img](https://zip.xd.hu/file/uDvVge.png)
+[!img](https://zip.xd.hu/file/Rn5Rmv.png)
+[!img](https://zip.xd.hu/file/MrnDOU.png)
+[!img](https://zip.xd.hu/file/wHHk9Q.png)
+
