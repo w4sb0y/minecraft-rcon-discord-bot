@@ -31,7 +31,7 @@ broadcast-rcon-to-ops=<optional, true|false>
 ```
 __Second__, clone the git respository to the machine you want to run the bot on:
 ```
-git clone https://github.com/RayNieport/mconBot.git
+git clone https://github.com/w4sb0y/minecraft-rcon-discord-bot
 ```
 
 __Third__, install __[python 3](https://www.python.org/downloads/)__ , then navigate to the cloned repository and install the necessary dependencies:
