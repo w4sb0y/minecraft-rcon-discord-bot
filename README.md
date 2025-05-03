@@ -48,5 +48,5 @@ __Fifth__, modify __mconBot/src/.env__ in the cloned repository:
 
 __Sixth__, head into __/mconBot/src/__ in the cloned repository and start up the bot:
 ```
-python3 mconBot.py
-
+python3 bot.py
+```
